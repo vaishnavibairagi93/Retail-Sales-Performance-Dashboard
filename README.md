@@ -32,5 +32,6 @@ How to Use This Project
 
 About the Author
 👩‍💻 Vaishnavi Bairagi
+
 📩 Connect on LinkedIn: www.linkedin.com/in/vaishnavi-bairagi-1804451bb
 🌟 Star this repo if you find it helpful! ⭐
